@@ -505,18 +505,17 @@
 									}
 								}
 							}
-					
-						tbody tr:nth-child(odd) {
-							background-color: var(--gray-50);
-						}
 
-						tbody tr:hover {
-							background-color: var(--gray-100);
-						}
+							tbody tr:nth-child(odd) {
+								background-color: var(--gray-50);
+							}
 
-						input[type="checkbox"] {
-							margin-top: 2px;
-						}
+							tbody tr:hover {
+								background-color: var(--gray-100);
+							}
+
+							input[type="checkbox"] {
+								margin-top: 2px;
 							}
 
 							.list-col-checkbox {
